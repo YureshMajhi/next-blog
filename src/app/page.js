@@ -3,6 +3,7 @@ import CategoryList from "@/components/categoryList/CategoryList";
 import Featured from "@/components/featured/Featured";
 import Menu from "@/components/menu/Menu";
 import styles from "./homepage.module.css";
+import Pagination from "@/components/pagination/Pagination";
 
 export default function Home() {
   return (
